@@ -1,4 +1,3 @@
-game();
 
 function game() {
   let wins = 0;
